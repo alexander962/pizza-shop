@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+# File for personal notes
+NOTES.md
+
 # testing
 /coverage
 
